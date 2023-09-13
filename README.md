@@ -26,5 +26,5 @@ We were able to create a successful app that was capable of predicting the follo
 - The inputted coordinates had an arsenic level on the spectrum from 5-10 ㎍/L, the model was 87.92% accurate in its prediction.
 - The inputted coordinates had an arsenic level on the spectrum from 0-5 ㎍/L, the model was 78.41%  accurate in its prediction.
 
-
+Created by: Aster Harris, Lauren Huffmire, Diego Lazaro, Sara Zhu
 
